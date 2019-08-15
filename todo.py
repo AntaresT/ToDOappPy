@@ -7,3 +7,6 @@ class todo():
         self.descricao = descricao
         self.status = status
 
+    #Inserir uma tarega
+    def insereTarefa():
+
