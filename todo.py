@@ -1,4 +1,5 @@
 # Lista de Afazeres
+from .model import session
 
 class todo():
 
